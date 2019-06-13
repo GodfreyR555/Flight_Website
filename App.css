@@ -1,0 +1,71 @@
+.Home {
+  
+}
+
+a:link {
+color:#3899D1;
+}
+a:visited{
+color:#E0822E;
+}
+a:hover{
+color:red;
+}
+a:active{
+color:black;
+}
+.Home-header {
+  border-bottom: 25px solid #3899D1;
+  background-color: white;
+ /* color:#E0822E ; */
+  height: calc(3px + 7vmin);
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  justify-content: left;
+  font-size: calc(10px + 2vmin);
+  color:#E0822E;
+}
+
+.Home-prag{
+Margin-right: 15px;
+text-align: right;
+color: #E0822E;
+}
+.Home-nav{
+  background-color: white;
+  height:40px;
+  text-align:right;
+  margin-right: 50px;
+  color: #E0822E;
+}
+.Home-body{
+
+}
+.Home-dir{
+height:350px;
+width:150px;
+  background-color:#3899D1;
+  position:absolute;
+  z-index:50;
+color: white;
+}
+.Home-pic{
+  float:fixed;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  height: 700px;  
+}
+.Home-footer{
+width:100%;
+height:5vmin;
+text-align: center;
+background-color: #3899D1;
+z-index: 50;
+}
+
+.Home-link {
+  color: #61dafb;
+}
+
