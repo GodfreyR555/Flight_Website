@@ -32,6 +32,16 @@ Margin-right: 15px;
 text-align: right;
 color: #E0822E;
 }
+.Home-track{
+position:absolute;
+top: 550px;
+right:45px;
+z-index:50;
+background-color:#3899D1;
+color:white;
+height:300px;
+width:500px;
+}
 .Home-nav{
   background-color: white;
   height:40px;
