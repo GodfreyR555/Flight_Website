@@ -23,17 +23,21 @@ function Home() {
 	</nav>
 
 	<body className="Home-body">
-	  <aside className ="Home-dir">
-	    <p> Home</p><p>
-View Listings </p><p>
-Hotels</p><p>
-Dining</p><p>
-Shopping</p><p>
-Parking</p><p>
-Log in</p><p>
-Help </p>
-	  </aside>
 
+	  <article className ="Home-dir">
+	    <p> Home</p><p>
+	    View Listings </p><p>
+	    Hotels</p><p>
+	    Dining</p><p>
+	    Shopping</p><p>
+	    Parking</p><p>
+	    Log in</p><p>
+	    Help </p>
+	  </article>
+
+	  <aside className = "Home-track">
+	    <p>Track My Flight:</p>
+	  </aside>
 
 	  <section className="Home-image">
 	
